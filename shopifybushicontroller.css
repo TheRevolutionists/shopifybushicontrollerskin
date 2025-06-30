@@ -7,7 +7,7 @@
 }
 
 .ds4.disconnected {
-  background: url(ps4-assets/disconnected.svg);
+  background: url();
 }
 
 .ds4.disconnected div {
@@ -40,7 +40,7 @@
 .ds4 .bumper {
   width: 99px;
   height: 23px;
-  background: url(ps4-assets/bumper.svg) no-repeat;
+  background: url(https://imgur.com/qhXNN7r.png) no-repeat;
   opacity: 0;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .ds4 .touchpad.pressed {
-  background: url(ps4-assets/touchpad.svg) no-repeat center;
+  background: url() no-repeat center;
 }
 
 .ds4 .meta {
@@ -88,7 +88,7 @@
 }
 
 .ds4 .meta.pressed {
-  background: url(ps4-assets/meta.svg) no-repeat center;
+  background: url() no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 
 .ds4 .back,
 .ds4 .start {
-  background: url(ps4-assets/start.svg);
+  background: url();
   width: 28px;
   height: 46px;
   opacity: 0;
@@ -231,7 +231,7 @@ background-position: 0 -70px;
 
 /* ---------- EDIT 2: d-pad sprite ---------- */
 .ds4 .face {
-  background: url(ps4-assets/dpad.svg);
+  background: url();
   position: absolute;
 }
 
