@@ -7,7 +7,7 @@
 }
 
 .ds4.disconnected {
-  background: url();
+  background: url(https://raw.githubusercontent.com/Istador/gamepadviewer-skins/refs/heads/public/playstation/ps5/white/disconnected.svg);
 }
 
 .ds4.disconnected div {
